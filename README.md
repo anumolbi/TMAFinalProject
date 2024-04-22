@@ -13,5 +13,7 @@ The ECO Tracker is a new app that aims to make people more aware of the environm
 
 
 ![home screen](https://github.com/anumolbi/TMAFinalProject/blob/d2488e77d4c0e70395da60eb34387dcaa660be99/home%20screen.jpg)
+![Search_Screen](https://github.com/anumolbi/TMAFinalProject/blob/6a936cc9e2ec01377c354442e446e3d6c7027955/search%20screen.jpg)
+
 
 
